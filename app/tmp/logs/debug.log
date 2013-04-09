@@ -1,0 +1,205 @@
+2013-03-20 11:07:35 Debug: Strict (2048): Declaration of JavascriptHelper::value() should be compatible with Helper::value($options = Array, $field = NULL, $key = 'value') in [C:\xampp\htdocs\cake\app\View\Helper\JavascriptHelper.php, line 23]
+Trace:
+include - APP\View\Helper\JavascriptHelper.php, line 23
+App::load() - CORE\Cake\Core\App.php, line 560
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+HelperCollection::load() - CORE\Cake\View\HelperCollection.php, line 129
+View::loadHelpers() - CORE\Cake\View\View.php, line 884
+View::render() - CORE\Cake\View\View.php, line 463
+Controller::render() - CORE\Cake\Controller\Controller.php, line 947
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 97
+
+2013-03-20 11:07:35 Debug: Strict (2048): Declaration of JavascriptHelper::afterRender() should be compatible with Helper::afterRender($viewFile) in [C:\xampp\htdocs\cake\app\View\Helper\JavascriptHelper.php, line 23]
+Trace:
+include - APP\View\Helper\JavascriptHelper.php, line 23
+App::load() - CORE\Cake\Core\App.php, line 560
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+HelperCollection::load() - CORE\Cake\View\HelperCollection.php, line 129
+View::loadHelpers() - CORE\Cake\View\View.php, line 884
+View::render() - CORE\Cake\View\View.php, line 463
+Controller::render() - CORE\Cake\Controller\Controller.php, line 947
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 97
+
+2013-03-20 11:07:35 Debug: Strict (2048): Declaration of AjaxHelper::afterRender() should be compatible with Helper::afterRender($viewFile) in [C:\xampp\htdocs\cake\app\View\Helper\AjaxHelper.php, line 1398]
+Trace:
+App::load() - CORE\Cake\Core\App.php, line 560
+App::load() - CORE\Cake\Core\App.php, line 560
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+HelperCollection::load() - CORE\Cake\View\HelperCollection.php, line 129
+View::loadHelpers() - CORE\Cake\View\View.php, line 884
+View::render() - CORE\Cake\View\View.php, line 463
+Controller::render() - CORE\Cake\Controller\Controller.php, line 947
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 97
+
+2013-03-20 11:07:39 Debug: Strict (2048): Declaration of JavascriptHelper::value() should be compatible with Helper::value($options = Array, $field = NULL, $key = 'value') in [C:\xampp\htdocs\cake\app\View\Helper\JavascriptHelper.php, line 23]
+Trace:
+include - APP\View\Helper\JavascriptHelper.php, line 23
+App::load() - CORE\Cake\Core\App.php, line 540
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+HelperCollection::load() - CORE\Cake\View\HelperCollection.php, line 129
+View::loadHelpers() - CORE\Cake\View\View.php, line 884
+View::render() - CORE\Cake\View\View.php, line 463
+Controller::render() - CORE\Cake\Controller\Controller.php, line 947
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 97
+
+2013-03-20 11:07:39 Debug: Strict (2048): Declaration of JavascriptHelper::afterRender() should be compatible with Helper::afterRender($viewFile) in [C:\xampp\htdocs\cake\app\View\Helper\JavascriptHelper.php, line 23]
+Trace:
+include - APP\View\Helper\JavascriptHelper.php, line 23
+App::load() - CORE\Cake\Core\App.php, line 540
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+HelperCollection::load() - CORE\Cake\View\HelperCollection.php, line 129
+View::loadHelpers() - CORE\Cake\View\View.php, line 884
+View::render() - CORE\Cake\View\View.php, line 463
+Controller::render() - CORE\Cake\Controller\Controller.php, line 947
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 97
+
+2013-03-20 11:07:39 Debug: Strict (2048): Declaration of AjaxHelper::afterRender() should be compatible with Helper::afterRender($viewFile) in [C:\xampp\htdocs\cake\app\View\Helper\AjaxHelper.php, line 1398]
+Trace:
+App::load() - CORE\Cake\Core\App.php, line 540
+App::load() - CORE\Cake\Core\App.php, line 540
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+HelperCollection::load() - CORE\Cake\View\HelperCollection.php, line 129
+View::loadHelpers() - CORE\Cake\View\View.php, line 884
+View::render() - CORE\Cake\View\View.php, line 463
+Controller::render() - CORE\Cake\Controller\Controller.php, line 947
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 97
+
+2013-03-20 11:07:39 Debug: Strict (2048): Declaration of User::beforeSave() should be compatible with Model::beforeSave($options = Array) in [C:\xampp\htdocs\cake\app\Model\User.php, line 9]
+Trace:
+include - APP\Model\User.php, line 9
+App::load() - CORE\Cake\Core\App.php, line 540
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+ClassRegistry::init() - CORE\Cake\Utility\ClassRegistry.php, line 144
+FormHelper::_getModel() - CORE\Cake\View\Helper\FormHelper.php, line 146
+FormHelper::_introspectModel() - CORE\Cake\View\Helper\FormHelper.php, line 186
+FormHelper::create() - CORE\Cake\View\Helper\FormHelper.php, line 332
+include - APP\View\Users\login.ctp, line 9
+View::_evaluate() - CORE\Cake\View\View.php, line 947
+View::_render() - CORE\Cake\View\View.php, line 909
+View::render() - CORE\Cake\View\View.php, line 470
+Controller::render() - CORE\Cake\Controller\Controller.php, line 947
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 97
+
+2013-03-20 11:07:50 Debug: Strict (2048): Declaration of User::beforeSave() should be compatible with Model::beforeSave($options = Array) in [C:\xampp\htdocs\cake\app\Model\User.php, line 9]
+Trace:
+include - APP\Model\User.php, line 9
+App::load() - CORE\Cake\Core\App.php, line 540
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+ClassRegistry::init() - CORE\Cake\Utility\ClassRegistry.php, line 144
+BaseAuthenticate::_findUser() - CORE\Cake\Controller\Component\Auth\BaseAuthenticate.php, line 94
+FormAuthenticate::authenticate() - CORE\Cake\Controller\Component\Auth\FormAuthenticate.php, line 80
+AuthComponent::identify() - CORE\Cake\Controller\Component\AuthComponent.php, line 674
+AuthComponent::login() - CORE\Cake\Controller\Component\AuthComponent.php, line 540
+UsersController::login() - APP\Controller\UsersController.php, line 39
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE\Cake\Controller\Controller.php, line 485
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 186
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 97
+
+2013-03-20 11:07:51 Debug: Strict (2048): Declaration of JavascriptHelper::value() should be compatible with Helper::value($options = Array, $field = NULL, $key = 'value') in [C:\xampp\htdocs\cake\app\View\Helper\JavascriptHelper.php, line 23]
+Trace:
+include - APP\View\Helper\JavascriptHelper.php, line 23
+App::load() - CORE\Cake\Core\App.php, line 540
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+HelperCollection::load() - CORE\Cake\View\HelperCollection.php, line 129
+View::loadHelpers() - CORE\Cake\View\View.php, line 884
+View::render() - CORE\Cake\View\View.php, line 463
+Controller::render() - CORE\Cake\Controller\Controller.php, line 947
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 97
+
+2013-03-20 11:07:51 Debug: Strict (2048): Declaration of JavascriptHelper::afterRender() should be compatible with Helper::afterRender($viewFile) in [C:\xampp\htdocs\cake\app\View\Helper\JavascriptHelper.php, line 23]
+Trace:
+include - APP\View\Helper\JavascriptHelper.php, line 23
+App::load() - CORE\Cake\Core\App.php, line 540
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+HelperCollection::load() - CORE\Cake\View\HelperCollection.php, line 129
+View::loadHelpers() - CORE\Cake\View\View.php, line 884
+View::render() - CORE\Cake\View\View.php, line 463
+Controller::render() - CORE\Cake\Controller\Controller.php, line 947
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 97
+
+2013-03-20 11:07:51 Debug: Strict (2048): Declaration of AjaxHelper::afterRender() should be compatible with Helper::afterRender($viewFile) in [C:\xampp\htdocs\cake\app\View\Helper\AjaxHelper.php, line 1398]
+Trace:
+App::load() - CORE\Cake\Core\App.php, line 540
+App::load() - CORE\Cake\Core\App.php, line 540
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+HelperCollection::load() - CORE\Cake\View\HelperCollection.php, line 129
+View::loadHelpers() - CORE\Cake\View\View.php, line 884
+View::render() - CORE\Cake\View\View.php, line 463
+Controller::render() - CORE\Cake\Controller\Controller.php, line 947
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 97
+
+2013-03-20 11:07:58 Debug: Strict (2048): Declaration of JavascriptHelper::value() should be compatible with Helper::value($options = Array, $field = NULL, $key = 'value') in [C:\xampp\htdocs\cake\app\View\Helper\JavascriptHelper.php, line 23]
+Trace:
+include - APP\View\Helper\JavascriptHelper.php, line 23
+App::load() - CORE\Cake\Core\App.php, line 540
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+HelperCollection::load() - CORE\Cake\View\HelperCollection.php, line 129
+View::loadHelpers() - CORE\Cake\View\View.php, line 884
+View::render() - CORE\Cake\View\View.php, line 463
+Controller::render() - CORE\Cake\Controller\Controller.php, line 947
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 97
+
+2013-03-20 11:07:58 Debug: Strict (2048): Declaration of JavascriptHelper::afterRender() should be compatible with Helper::afterRender($viewFile) in [C:\xampp\htdocs\cake\app\View\Helper\JavascriptHelper.php, line 23]
+Trace:
+include - APP\View\Helper\JavascriptHelper.php, line 23
+App::load() - CORE\Cake\Core\App.php, line 540
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+HelperCollection::load() - CORE\Cake\View\HelperCollection.php, line 129
+View::loadHelpers() - CORE\Cake\View\View.php, line 884
+View::render() - CORE\Cake\View\View.php, line 463
+Controller::render() - CORE\Cake\Controller\Controller.php, line 947
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 97
+
+2013-03-20 11:07:58 Debug: Strict (2048): Declaration of AjaxHelper::afterRender() should be compatible with Helper::afterRender($viewFile) in [C:\xampp\htdocs\cake\app\View\Helper\AjaxHelper.php, line 1398]
+Trace:
+App::load() - CORE\Cake\Core\App.php, line 540
+App::load() - CORE\Cake\Core\App.php, line 540
+spl_autoload_call - [internal], line ??
+class_exists - [internal], line ??
+HelperCollection::load() - CORE\Cake\View\HelperCollection.php, line 129
+View::loadHelpers() - CORE\Cake\View\View.php, line 884
+View::render() - CORE\Cake\View\View.php, line 463
+Controller::render() - CORE\Cake\Controller\Controller.php, line 947
+Dispatcher::_invoke() - CORE\Cake\Routing\Dispatcher.php, line 193
+Dispatcher::dispatch() - CORE\Cake\Routing\Dispatcher.php, line 161
+[main] - APP\webroot\index.php, line 97
+
